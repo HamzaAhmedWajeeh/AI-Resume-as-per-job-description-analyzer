@@ -48,10 +48,14 @@ pip install -r requirements.txt
 
 ### 4️⃣ Set Up API Key
 #### Create a .env file in the project root and add your Groq API Key:
+```bash
 GROQ_API_KEY=your_groq_api_key_here
+```
 
 ### 🚀 Running the Application
+```bash
 streamlit run app.py
+```
 
 ## 📌 Usage
 1️⃣ Upload your resume (PDF/DOCX).
